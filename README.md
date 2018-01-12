@@ -19,6 +19,8 @@ The training tool is developed by Python and using Tensorflow.
 I've customized [guillaumegenthial](https://github.com/guillaumegenthial/sequence_tagging) source codes for this purpose.
 
 ## Using
+
+First of all, you should download [this file](https://files.fm/u/s5ubjwg6) and extract it in the main folder. It will create a folder named **results** .
 You can find a file in **data** folder called **input.txt** . Put your text there and call **Python evaluate.py** . Your desired results will be written in **data/result.txt** . 
 
 If you want to train your own model, follow instructions in https://github.com/guillaumegenthial/sequence_tagging.
