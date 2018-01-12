@@ -1,0 +1,13 @@
+I-pers
+B-pers
+I-org
+B-event
+I-event
+O
+I-loc
+B-pro
+I-pro
+B-org
+B-loc
+I-fac
+B-fac
